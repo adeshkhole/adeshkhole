@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Khole</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img lign="right" alt"coding" width="400" src=""C:\Users\Adesh\Downloads\tachyon-2-dr.gif"/">
+<h3 align="center">A Passionate Blockchain Developer from India</h3>
+<img lign="right" alt"coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1639322537231-2f206e06af84%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJsb2NrY2hhaW58ZW58MHx8MHx8%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fblockchain&tbnid=jdSSyDfHZvBPKM&vet=12ahUKEwjE7ue2yJT5AhVei9gFHXfqCGIQMygAegUIARDiAQ..i&docid=MHKKdak8XA5ONM&w=1000&h=563&q=blockchain%20hd&hl=en&ved=2ahUKEwjE7ue2yJT5AhVei9gFHXfqCGIQMygAegUIARDiAQ">
 
 - 👨‍💻 All of my projects are available at [http://adeshkhole.ezyro.com/?i=1](http://adeshkhole.ezyro.com/?i=1)
 
