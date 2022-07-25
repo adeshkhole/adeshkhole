@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Khole</h1>
 <h3 align="center">A Passionate Blockchain Developer from India</h3>
-<img lign="right" alt"coding" width="400" src="C:\Users\Adesh\Downloads\tachyon-2-dr.gif"/>
+ <img src = "C:\Users\Adesh\Downloads\tachyon-2-dr.gif" alt = "" border = "0"/> 
 
 - 👨‍💻 All of my projects are available at [http://adeshkhole.ezyro.com/?i=1](http://adeshkhole.ezyro.com/?i=1)
 
