@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Khole</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img lign="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif/">
+<img lign="right" alt"coding" width="400" src="https://dribbble.com/shots/5477893-Blockchain-DPOS-animation/">
 
 - 👨‍💻 All of my projects are available at [http://adeshkhole.ezyro.com/?i=1](http://adeshkhole.ezyro.com/?i=1)
 
