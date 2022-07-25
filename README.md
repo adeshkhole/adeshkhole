@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Khole</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img lign="right" alt"coding" width="400" src="https://dribbble.com/signup/new/">
-![Image](![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png))
+<img lign="right" alt"coding" width="400" src=""C:\Users\Adesh\Downloads\tachyon-2-dr.gif"/">
 
 - 👨‍💻 All of my projects are available at [http://adeshkhole.ezyro.com/?i=1](http://adeshkhole.ezyro.com/?i=1)
 
