@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Blockchain Developer from India</h3>
 
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/91620524/180841307-52e8bb1c-24a3-4bef-87ba-44e7ba47b24c.gif" alt="Coding" />
+<img align="right" width="350" src="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG" alt="Coding" />
 
 
 
