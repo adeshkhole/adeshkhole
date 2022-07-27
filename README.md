@@ -1,4 +1,4 @@
-[![MasterHead](http://wp-content/uploads/2022/02/WhatsApp-Image-2022-02-05-at-2.46.38-PM-1.jpeg)](http://adeshkhole.ezyro.com//)
+[![MasterHead](http://"C:\Users\Adesh\Downloads\WhatsApp-Image-2022-02-05-at-2.46.38-PM-1.jpeg")](http://adeshkhole.ezyro.com//)
 
 <h1 align="center">Hi 👋, I'm Adesh Khole</h1>
 <h3 align="center">A Passionate Blockchain Developer from India</h3>
