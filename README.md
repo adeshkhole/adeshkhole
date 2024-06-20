@@ -1,8 +1,8 @@
 [![MasterHead]("C:\Users\Adesh\Downloads\WhatsApp-Image-2022-02-05-at-2.46.38-PM-1.jpeg")](http://adeshkhole.ezyro.com//)
 
 <h1 align="center">Hello there! I'm Adesh Khole</h1>
-<h4 align="center">/Self-motivated computer science engineer with keen interest in coding✌🏼 a strong foundation in math, logic, and cross-platform coding🎯 Innovative, creative, and willing to contribute ideas and learn new things⏳📌h4>
-<h3 align="center">A Passionate Blockchain Developer from India</h3>
+<h4 align="center">Self-motivated computer science engineer with keen interest in coding✌🏼 a strong foundation in math, logic, and cross-platform coding🎯 Innovative, creative, and willing to contribute ideas and learn new things⏳📌</h4>
+<h3 align="center">A Passionate Developer From India</h3>
 
 
 <img align="right" width="350" src="https://miro.medium.com/max/1400/1*_nB_yupVYHaiPXh30Ij4ZQ.gif" alt="Coding" />
