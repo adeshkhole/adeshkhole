@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://adeshkhole.ezyro.com/?i=1](http://adeshkhole.ezyro.com/?i=1)
 
-- 📫 How to reach me **adeshkhole8686@gmail.com**
+- 📫 How to reach me **adeshkhole@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
